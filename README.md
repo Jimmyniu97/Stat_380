@@ -1,0 +1,7 @@
+# Stat_380
+PSU STAT 380 coursework
+
+Description
+The official course description is available in Penn State’s University Bulletin [linked](https://bulletins.psu.edu/search/?scontext=all&search=stat+380&caturl=%2Fundergraduate) here, but a recent version is reproduced below for your convenience.
+
+A case study-based course in the use of computing and statistcal reasoning to answer data-intensive questions. STAT 380 Data Science Through Statistical Reasoning and Computation (3) This course addresses the fact that real data are often messy by taking a holistic view of statistical analysis to answer questions of interest. Various case studies will lead students from the computationally intensive process of obtaining and cleaning data, through exploratory techniques, and finally to rudimentary inferential statistics. This process will exploit students exposure to introductory statistics as well as the R programming language, hence the required prerequisites, yet novel computing and analytical techniques will also be introduced throughout the course. For the collection of data, students will learn scripting and database querying skills; for their exploration, they will employ R capabilities for graphical and summary statistics; and for their analysis, they will build upon the basic concepts obtained in their introductory statistics course. The varied case studies will elucidate additional statistical topics such as identifying sources of bias and searching for high-dimensional outliers.
